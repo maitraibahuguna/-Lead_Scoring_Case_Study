@@ -1,1 +1,5 @@
-# -Lead_Scoring_Case_Study
+# Lead_Scoring_Case_Study
+
+INTRODUCTION: • An education company, X Education sells online courses to industry professionals. The company markets its courses on various websites and search engines such as Google Once people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. The typical lead conversion rate at X education is around 30%.  
+
+BUSINESS GOALS: • Company wishes to identify the most potential leads,also known as “Hot Leads” The company needs a model wherein a lead score is assigned to each of the leads such that the customer with higher lead score have a higher conversion chance and customer with lower lead score have a lower conversion chance The CEO, in particular, has given a ballpark number for the lead conversion rate i.e., 80%
